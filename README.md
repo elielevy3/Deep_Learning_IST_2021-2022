@@ -6,6 +6,19 @@
 
 # 84% Accuracy using Logistic Regression and % using MLP
 
-# In order to run: - git pull
-				   - python hw2_cnn_skeleton_code/download_fashion_mnist.py (from the root directory)
+# In order to run: 
+				   - git pull
+				   - python Project_2/hw2_cnn_skeleton_code/download_fashion_mnist.py (from the root directory)
 				   - python hw1-q4.py
+
+
+# Second Project
+
+# Building a CNN to classify FashionMNIST using Pytorch
+
+# 90% Accuracy
+
+# In order to run: 
+				   - git pull
+				   - python Project_2/hw2_cnn_skeleton_code/download_fashion_mnist.py (from the root directory)
+				   - python hw2-q2.py
